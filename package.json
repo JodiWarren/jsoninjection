@@ -9,6 +9,7 @@
   "author": "",
   "license": "ISC",
   "devDependencies": {
-    "dummy-json": "^1.0.1"
+    "dummy-json": "^1.0.1",
+    "html-minifier": "^3.0.2"
   }
 }
